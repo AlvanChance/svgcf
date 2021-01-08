@@ -22,7 +22,8 @@ This is a start personal starter project for the Cadet Force in St Vincent and t
  - Surname
  - First Name & Initial
  - Date of Birth (DOB)
- - Address
+ - Address Line 1
+ - Address Line 2
  - P.O. Box Number
  - Contact Number
  - email
