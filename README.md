@@ -1,13 +1,21 @@
 # Demo svgcf
 
-This is a start personal starter project for the Cadet Force in St Vincent and the Grenadines.
+This is a personal starter project for the Cadet Force in St Vincent and the Grenadines.
 
-## Levels of Roles, Permissions and Rights
+## Command Structure
 
- - Administrator
- - Moderator / Member
- - Members
- - Users / None Members
+- CO: Commanding Officer
+- Maj: Major
+- Capt: Captain
+- Lt: Lieutenent
+- 2Lt: Second Lieutenent
+- WO1: Warrant Officer (Class 1)
+- WO2: Warrant Officer (Class 2)
+- SSgt: Staff Sergeant
+- Sgt: Sergeant
+- Cpl: Corporal
+- LCPL: Lance Corporal
+- Pte: Private
 
 ## Command Areas (Sub-Branches within the Organisation)
 
@@ -28,3 +36,10 @@ This is a start personal starter project for the Cadet Force in St Vincent and t
  - Contact Number
  - email
  - Notes
+ 
+ ## Levels of Roles, Permissions and Rights
+
+ - Administrator
+ - Moderator / Member
+ - Members
+ - Users / None Members
